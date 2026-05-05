@@ -2,4 +2,4 @@
 
 Author: Karin Stahel
 
-The notebooks in this repository have been developed for DIGI405 labs introducing genre classification.
+The notebook in this repository has been developed for DIGI405 labs introducing genre classification.
